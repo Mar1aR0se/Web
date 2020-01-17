@@ -1,0 +1,22 @@
+{
+  "name": "ideapa.id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mar1aR0se/Web.git"
+  },
+  "keywords": [
+    "Web"
+  ],
+  "author": "Mar1aR0se",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mar1aR0se/Web/issues"
+  },
+  "homepage": "https://github.com/Mar1aR0se/Web#readme"
+}
